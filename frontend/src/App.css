@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.info-content{
+float:right
+}
+
+html body div#root div.App div.navigation nav.navbar.navbar-expand.navbar-dark.bg-dark div.container div ul.navbar-nav.ml-auto li.nav-item a.nav-link {
+  Float:right
+  }
+
+  .nav-item:last-child {
+    float:right
+    }
